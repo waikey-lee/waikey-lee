@@ -1,7 +1,7 @@
 ### Hey there! I'm Wai Key~ 👋
 
 <!-- Actual text -->
-You can find me on [![LinkedIn][1.2]][1]
+
 
 <!-- Icons -->
 [1.2]: <img src="https://github.com/waikey-lee/waikey-lee/blob/main/in.png" alt="LinkedIn Icon" style="width:30px;"/>
@@ -15,5 +15,7 @@ You can find me on [![LinkedIn][1.2]][1]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waikey-lee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 https://github.com/waikey-lee/waikey-lee/blob/main/in.png
+
+You can find me on [![LinkedIn][1.2]][1]
 -->
 
